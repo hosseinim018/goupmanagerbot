@@ -1,0 +1,11 @@
+Django
+PySocks
+requests
+cryptography
+jdatetime
+celery
+django_celery_beat
+redis
+daphne
+channels
+
